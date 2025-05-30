@@ -13,7 +13,7 @@ Generate beautiful anime-style characters using AI just by typing a prompt. Buil
 
 ## 🖼️ Demo Screenshot
 
-![Screenshot](your_screenshot_filename.png) <!-- Upload screenshot to the repo -->
+![Screenshot](Dashbord.png) <!-- Upload screenshot to the repo -->
 
 ## 🛠️ Installation
 
